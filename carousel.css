@@ -1,0 +1,13 @@
+.carousel-item {
+    text-align: center;
+  }
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    color: white;
+  } 
+
+.div-height{ 
+
+    min-height : 75vh;
+}
